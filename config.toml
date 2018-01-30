@@ -1,7 +1,7 @@
 
 theme = "cocoa-hugo-theme"
 
-baseurl             = "https://zdebra.github.io/"
+baseurl             = "https://www.zdebra.cz/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
