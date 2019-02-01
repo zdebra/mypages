@@ -7,4 +7,4 @@ title = "About"
 
 Software developer, spacetravel addict and sustainable energy enthusiast.
 
-Currently working at [manGoweb](https://www.mangoweb.cz/). Feel free to contact me.
+Currently working for [STRV](https://www.strv.com/). Feel free to contact me.
