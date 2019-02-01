@@ -32,4 +32,4 @@ While I enjoyed many aspects, the conference also had its shortcomings. I would 
 
 It's time to head back to my hotel. The Kreuzberg evening feels different - it's dark and cold but pulsing with a cozy atmosphere of local bars. The conference amazed me. Berlin, I'll be back next year - it was a blast!
 
-_Thanks to Sara Parrot for grammar corrections._
+_Thanks to Sara Parrott for grammar corrections._
