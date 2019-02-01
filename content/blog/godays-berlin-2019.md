@@ -10,7 +10,7 @@ It's Wednesday, a cold winter morning and I am on my way to _Factory Görlitzer 
 
 A warm welcome was waiting for me. The conference venue was located in the last, 5th floor of this architectonic masterpiece. The event was perfectly organized with flawless registration.The food catering worked well even with my specific diet. I also appreciated that the conference talks were on time and without technical issues or hiccups. But since the talks themselves were the highlight, I would like to share three that inspired me the most.
 
-![importance_of_beginners](../../img/godays_02.jpg "Importance of beginners")
+![going_secure](../../img/godays_05.jpg "Going Secure with Go")
 
 The first talk of the conference was about the importance of beginners in Go. [Natalie Pistunovich](https://twitter.com/NataliePis), Berlin well-known meetups organizer, pointed out that the number of gophers (members of the golang community) doubled over the past year. It is very easy to trust that number: Golang is everywhere. Almost every company out there relies on an open source project written in Go (Docker, Kubernetes, Grafana and many more), job offer listings are full of golang opportunities and a lot of companies choose Golang when a rewrite of their codebase is required. All those beginners need our help to surpass a steep learning curve. They'll bring fresh wind into the community and new ideas as in a return. I am in. 
 
@@ -32,3 +32,4 @@ While I enjoyed many aspects, the conference also had its shortcomings. I would 
 
 It's time to head back to my hotel. The Kreuzberg evening feels different - it's dark and cold but pulsing with a cozy atmosphere of local bars. The conference amazed me. Berlin, I'll be back next year - it was a blast!
 
+_Thanks to Sara Parrot for grammar correction._
