@@ -1,6 +1,6 @@
 ---
 title: "GoDays Berlin 2019"
-date: 2018-02-01T16:45:55+02:00
+date: 2019-02-01T16:45:55+02:00
 draft: false
 ---
 
